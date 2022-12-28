@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LostMarket</string>
+    <string name="loading_title_text">LostMarket</string>
 </resources>
