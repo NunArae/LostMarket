@@ -1,7 +1,5 @@
 package com.uniq.lostmarket.api.models
 
-import com.uniq.lostmarket.api.models.MarketItem
-
 data class MarketList(
     var PageNo: Int? = null,
     var PageSize: Int? = null,

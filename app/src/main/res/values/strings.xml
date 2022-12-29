@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">LostMarket</string>
     <string name="loading_title_text">LostMarket</string>
+    <string name="loading_icon_description">Just Loading Icon</string>
+    <string name="process_view_text">프로세스 뷰 동작중..</string>
 </resources>
