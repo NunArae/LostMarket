@@ -3,4 +3,8 @@
     <string name="loading_title_text">LostMarket</string>
     <string name="loading_icon_description">Just Loading Icon</string>
     <string name="process_view_text">프로세스 뷰 동작중..</string>
+    <string name="text_market">거래소</string>
+    <string name="text_auction">경매장</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
